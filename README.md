@@ -147,7 +147,7 @@ Use whatever you're comfortable with:
 
 ## Resources
 
-- CONTRIBUTING.md — Detailed guidelines
+- [CONTRIBUTING.md](CONTRIBUTING.md) — Detailed guidelines
 - [OpenCode Website](https://events.geekhaven.in/) — Register for leaderboard
 - [OpenCode Discord](https://discord.gg/opencode) — Support and updates
 
